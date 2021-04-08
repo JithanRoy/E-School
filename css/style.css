@@ -1,0 +1,25 @@
+.font-family: 'Poppins', sans-serif;
+
+#part1 {
+    width: 50%;
+}
+
+#part2 {
+    width: 50%;
+}
+
+header{
+    background-color: #F0FFF0;
+    position: absolute;
+    width: 1440px;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+}
+
+#part1 img {
+    height: 59px;
+    width: 198.07px;
+    margin-top: 30px;
+    
+}
